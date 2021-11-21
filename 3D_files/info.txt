@@ -1,0 +1,5 @@
+Piece Counts:
+	1 of Robber
+	60 roads (15 in each player colour)
+	20 settlements (5 in each player colour)
+	16 cities (4 in each player colour)
