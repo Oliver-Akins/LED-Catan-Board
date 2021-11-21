@@ -3,6 +3,9 @@ This is a project that I worked on with my dad to create a custom Settlers Of
 Catan playing board that uses LEDs to indicate what resources are spawned where
 eliminating the majority of the setup for the game.
 
+**Note:** These are living documents and may be updated at any time without any
+notice.
+
 # Steps:
 Currently don't exist. They may exist in the future, who knows.
 
