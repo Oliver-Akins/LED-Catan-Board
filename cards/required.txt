@@ -1,0 +1,17 @@
+Resources (95 total):
+	19x brick
+	19x wheat
+	19x wood
+	19x wool
+	19x ore
+
+Development Deck (25 total):
+	14x knight
+	5x victory point
+	2x road building
+	2x year of plenty
+	2x monopoly
+
+Misc (2 total):
+	1x longest road
+	1x largest army
